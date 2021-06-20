@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#nav1 ol{
+    display: flex;
+}
+#nav1 ol li{
+    list-style: none;/*this removes numbers from ordered list*/
+    font-size: 1.3rem;
+}
+#nav1 ol li a{
+    color: white;
+    display: block;
+    padding: 3px 22px;
+    border-radius: 20px;
+    text-decoration: none;/*this removes underline from links*/
+}
+#nav1 ol li a:hover{
+    color: black;
+    background-color: white;
+    
+}
+.first{
+    background-color: teal;
+}
+
+.image img{
+    height: 400px;
+    width: 100%;
+}
+
+.first_div{
+    width: 80%;
+    text-align: center;
+    padding-left: 10px;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border: 2px solid gray;
+    margin-left: 121px;
+    
+    background:hsla(67, 95%, 80%, 1);
+    
+}
+.acd{
+    width: 80%;
+    text-align: center;
+    padding-left: 120px;
+    top: -500px;
+}
+
+.bca{
+    width: 40%;
+    height: 90px;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border: 2px solid rgb(3, 90, 252);
+    margin-left: 10%;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 25px;
+    background:hsla(67, 95%, 80%, 1);
+    color: rgb(3, 90, 252);
+}
+.mca{
+    width: 40%;
+    height: 90px;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border: 2px solid rgb(3, 90, 252);
+    margin-left: 15%;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 25px;
+    background:hsla(67, 95%, 80%, 1);
+    color: rgb(3, 90, 252);
+}
+.btech{
+    width: 40%;
+    height: 90px;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border: 2px solid rgb(3, 90, 252);
+    margin-left: 20%;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 25px;
+    background:hsla(67, 95%, 80%, 1);
+    color: rgb(3, 90, 252);
+}
+.mtech{
+    width: 40%;
+    height: 90px;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border: 2px solid rgb(3, 90, 252);
+    margin-left: 25%;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 25px;
+    background:hsla(67, 95%, 80%, 1);
+    color: rgb(3, 90, 252);
+}
+.hotel{
+    width: 40%;
+    height: 90px;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border: 2px solid rgb(3, 90, 252);
+    margin-left: 30%;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 25px;
+    background:hsla(67, 95%, 80%, 1);
+    color: rgb(3, 90, 252);
+}
+.design{
+    width: 40%;
+    height: 90px;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border: 2px solid rgb(3, 90, 252);
+    margin-left: 35%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    padding-top: 25px;
+    background:hsla(67, 95%, 80%, 1);
+    color: rgb(3, 90, 252);
+}
+
+.second_sec{
+    background-color: rgba(50, 115, 220, 0.3);
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 20px;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border: 2px solid brown;
+}
+
+.one:hover{
+  background-color: rgb(0, 255, 157);
+  color: white;
+}
+
+#clk{
+    height: 50%;
+    width: 50%;
+    border: 2px solid white;
+    background-color: rgb(247, 201, 160);
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+#clk2{
+    height: 50%;
+    width: 50%;
+    border: 2px solid white;
+    background-color: rgb(247, 201, 160);
+    border-radius: 20px;
+    text-align: center;
+    
+    margin-left: 200px;
+}

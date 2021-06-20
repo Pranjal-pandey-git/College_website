@@ -1,0 +1,34 @@
+#nav1 ol{
+    display: flex;
+}
+#nav1 ol li{
+    list-style: none;/*this removes numbers from ordered list*/
+    font-size: 1.3rem;
+}
+#nav1 ol li a{
+    color: white;
+    display: block;
+    padding: 3px 22px;
+    border-radius: 20px;
+    text-decoration: none;/*this removes underline from links*/
+}
+#nav1 ol li a:hover{
+    color: black;
+    background-color: white;
+    
+}
+.facul{
+  text-align: center;  
+}
+.facul p{
+    margin-bottom: 5px; 
+  }
+#fac h2{
+    margin-top: 5px;
+}
+.desc{
+    display: inline;
+}
+#first{
+    display: flex;
+}

@@ -1,0 +1,48 @@
+.customCarousel .carousel-item img{
+   /* background-color: indianred;*/
+    height: 500px;
+
+}
+
+#nav1 ol{
+    display: flex;
+}
+
+#nav1 ol li{
+    list-style: none;/*this removes numbers from ordered list*/
+    font-size: 1.3rem;
+}
+
+#nav1 ol li a{
+    color: white;
+    display: block;
+    padding: 3px 22px;
+    border-radius: 20px;
+    text-decoration: none;/*this removes underline from links*/
+}
+#nav1 ol li a:hover{
+    color: black;
+    background-color: white;
+    
+}
+.salHover:hover{
+    color: lawngreen;
+}
+#about2{
+    border: 2px solid brown;
+    border-radius: 20px;
+    background-color: rgb(201, 239, 250);
+}
+#about2{
+    margin: 10px;
+}
+#about1 img{
+    margin: 30px;
+}
+#companies img{
+    width: 90%;
+    margin: 30px;
+}
+.first{
+    background-color: teal;
+}

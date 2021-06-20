@@ -1,0 +1,28 @@
+
+#nav1 ol{
+    display: flex;
+}
+#nav1 ol li{
+    list-style: none;/*this removes numbers from ordered list*/
+    font-size: 1.3rem;
+}
+#nav1 ol li a{
+    color: white;
+    display: block;
+    padding: 3px 22px;
+    border-radius: 20px;
+    text-decoration: none;/*this removes underline from links*/
+}
+#nav1 ol li a:hover{
+    color: black;
+    background-color: white;
+    
+}
+
+.gall img:hover{
+   background-size: 250%;
+    border: 2px solid rgb(255, 255, 255);
+}
+.first{
+    background-color: teal;
+}
